@@ -1,7 +1,6 @@
 # chinese-programmer-wrong-pronunciation
 中国程序员容易发音错误的单词(点击喇叭可收听正确读音)
 
-<center>
 | 单词  | 正确发音 | 错误发音 |
 | ---- | ------- | ------- |
 | access [🔊](http://dict.youdao.com/dictvoice?audio=access&type=1) | ✅ ['ækses] | ❌ [ək'ses] |
@@ -74,8 +73,6 @@
 | vue [🔊](http://dict.youdao.com/dictvoice?audio=vue&type=1) | ✅ [v'ju:] | ❌ [v'ju:i] |
 | width [🔊](http://dict.youdao.com/dictvoice?audio=width&type=1) | ✅ [wɪdθ] | ❌ [waɪdθ] |
 | YouTube [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=1) | ✅ ['juː'tjuːb] | ❌ ['juː'tʊbɪ] |
-
-</center>
 
 
 > 本着简单的原则, 又为了避免程序猿们出现选择困难症, '正确音标'采用了最接近有道词典音频的英式 DJ 音标, 不代表其唯一性.
